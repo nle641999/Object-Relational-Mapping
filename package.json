@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git@github.com:nle641999/Object-Relational-Mapping.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nicholas Le",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
