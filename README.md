@@ -2,6 +2,14 @@
 
 This backend is built using Object Relational Mapping (ORM) to handle database operations. It is designed to support the basic functionality of an e-commerce website, such as managing products, orders, and customers.
 
+## Table of Contents
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Video Link](#video-link)
+- [Further Development](#further-development)
+- [Contribution](#contribution)
+
 ## Technologies Used
 - Node.js
 - Express.js
@@ -37,6 +45,9 @@ npm run seed
 npm start
 ```
 6. Open Insomnia Core to test the API routes.
+
+## Video Link
+You can view the video [here!](https://drive.google.com/file/d/1aH1r_6Rmnz4tMhpNCzbjQdYx6nonleUX/view?usp=sharing)
 
 ## Further Development
 
